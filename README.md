@@ -4,7 +4,7 @@ A game written in typescript about moving balls
 ![look](img/look.png)
 
 
-##  Introduction
+##  Overall info
 
 The goal of the game is to move the balls to destroy them.
 
