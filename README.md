@@ -18,7 +18,7 @@ Rules:
  - Clone/download the repository
  - In the terminal run `npm i` to install dependencies  
  - In the terminal run `npm run build` to build project
- - Run `\dist\index.html` to play game  
+ - Run `\dist\index.html` to play the game  
     
 
 ## Features
