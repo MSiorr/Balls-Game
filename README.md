@@ -26,4 +26,4 @@ Rules:
 - Pathfinding algoritm
 - Score system
 - 'Joker' (ball works with any colour)
-- Possibility to create documentation `npm run doc`
+- Possibility to create documentation `npm run doc` (directory `\docs` will be created)
