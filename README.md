@@ -27,3 +27,14 @@ Rules:
 - Score system
 - 'Joker' (ball works with any colour)
 - Possibility to create documentation `npm run doc` (directory `\docs` will be created)
+
+## Technologies
+
+<p>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" /> 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" /> 
+ <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" /> 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" /> 
+ <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=black&style=for-the-badge" /> 
+</p>
+
