@@ -3,6 +3,9 @@ A game written in typescript about moving balls
 
 ![look](img/look.png)
 
+### Test it now 
+**👉 https://msiorr.github.io/Projects/Balls-Game/ 👈**
+
 
 ##  Overall info
 
