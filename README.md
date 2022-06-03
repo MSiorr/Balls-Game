@@ -1,7 +1,7 @@
 # Balls-Game
 A game written in typescript about moving balls
 
-![look](img/look.png)
+![obraz](https://user-images.githubusercontent.com/49323088/171882142-50dd14cd-2c20-4557-b383-63dd533ad051.png)
 
 ### Test it now 
 **👉 https://msiorr.github.io/Projects/Balls-Game/ 👈**
