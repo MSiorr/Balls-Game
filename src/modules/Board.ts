@@ -48,7 +48,7 @@ export interface IBoard {
      */
     boardScan(): boolean
     /**
-     * Method that checks if there are still any {@link Ball | Balls} on the board 
+     * Method that checks if there are still any {@link Ball | Balls} on the game board 
      * @returns Method result
      */
     anyBallOnBoard(): boolean
