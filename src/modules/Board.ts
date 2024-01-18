@@ -56,7 +56,7 @@ export interface IBoard {
 
 @gameSpeedDecorator
 /**
- * Class that manages the board and basic game functionalities
+ * Class that manages the board 
  */
 export class Board implements IBoard {
     mainDiv: HTMLDivElement
