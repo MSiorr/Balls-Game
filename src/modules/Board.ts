@@ -39,7 +39,7 @@ export interface IBoard {
 
     /**
      * Method for adding balls to the {@link Board}
-     * @param colors Two-dimensional colors array
+     * @param colors Two-dimensional colors array lol
      */
     createBalls(colors: String[][]): void
     /**
